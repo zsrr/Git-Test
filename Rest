@@ -6,3 +6,4 @@ This is damn shit
 I like it
 This is master-Rest
 This is a squash-test branch
+This is a test line on remote repo
